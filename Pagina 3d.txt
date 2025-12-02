@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv='X-UA-Compatible' content='chrome=1'></meta>
+<meta http-equiv='Content-Type'
+content='text/html;charset=utf-8'></meta>
+<title>Modelo 3D</title>
+<script type='text/javascript'
+src='https://www.x3dom.org/download/x3dom.js'> </script>
+<link rel='stylesheet' type='text/css'
+href='https://www.x3dom.org/download/x3dom.css'/>
+</head>
+<body>
+<h1>Modelo 3D Columna entrada</h1>
+<p>
+ Reconstrucción y texturizado de una malla 3D a partir de la nube de puntos ofrecida siguiendo una serie de pasos establecidos
+</p>
+<x3d width='800px' height='800px'>
+<scene>
+<inline url="https://raw.githubusercontent.com/barciacarmen14/Practica_M2_T5_CarmenSanchezBarcia/blob/main/Practica_M2_T5_CarmenSanchezBarcia.x3d"> </inline>
+</scene>
+</x3d>
+<p>
+ Carmen Alba Sánchez Barcia - Tecnologías avanzadas para la gestión y documentación del patrimonio cultural
+</p>
+</body>
+</html>
