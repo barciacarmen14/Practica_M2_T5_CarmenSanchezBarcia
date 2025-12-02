@@ -17,11 +17,12 @@ href='https://www.x3dom.org/download/x3dom.css'/>
 </p>
 <x3d width='800px' height='800px'>
 <scene>
-<inline url="https://raw.githubusercontent.com/barciacarmen14/Practica_M2_T5_CarmenSanchezBarcia/blob/main/Practica_M2_T5_CarmenSanchezBarcia.x3d"> </inline>
+<inline url="<inline url="Practica_M2_T5_CarmenSanchezBarcia.x3d"></inline>"> </inline>
 </scene>
 </x3d>
 <p>
  Carmen Alba Sánchez Barcia - Tecnologías avanzadas para la gestión y documentación del patrimonio cultural
 </p>
 </body>
+
 </html>
